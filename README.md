@@ -1,2 +1,2 @@
 # SolarisBot
-The Code for /u/SolarisBot on Reddit
+Code for Reddit bots before they get their own accounts.
