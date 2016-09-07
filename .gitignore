@@ -8,7 +8,6 @@
 # include git important files
 !.gitignore
 
-
 # remove any mac system files
 .DS_Store
 
@@ -17,3 +16,8 @@
 !SolarisBot.py
 !text_manipulation.py
 !SOLARR.py
+!login\account_info-example.py
+!login\README.txt
+!Input-example.txt
+!QuickMessages.bat
+!QuickMessages.py
