@@ -1,0 +1,9 @@
+This is a basic message that will replace the following two strings with table data: <Column 1>, and <Other Thing>.
+
+***
+
+Column 1 | Other Thing | Useless Info
+:-: | :-: | :-: 
+lemons | limes | WutFace
+the letter 'G' | the letter 'Q' | The bot will never notice this text
+a generic table entry | some random thing | nothing important
