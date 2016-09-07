@@ -4,7 +4,7 @@ import time
 import string
 import os.path
 import webbrowser
-import account_info
+from login import account_info
 import text_manipulation
 
 # The ^^^ is reddit formatting to make the text smaller
