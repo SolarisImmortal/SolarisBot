@@ -11,11 +11,16 @@
 # remove any mac system files
 .DS_Store
 
+# include folders, but not the files within them (yet)
+!login/
+login/*
+
 # include all the important code and files needed to run the bot (except the login credentials)
 !SolarisBot.bat
 !SolarisBot.py
 !text_manipulation.py
 !SOLARR.py
+
 !login/account_info-example.py
 !login/README.txt
 !Input-example.txt

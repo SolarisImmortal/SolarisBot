@@ -1,0 +1,8 @@
+app_id = 'xxxxxxxxx-xxxx'
+app_secret = 'xxxxxxxxxxxxx-xxxxxxxxxxxxx'
+app_uri = 'https://127.0.0.1:65010/authorize_callback'
+user_agent = 'A description of the bot'
+app_scopes = 'account creddits edit flair history identity livemanage modconfig modcontributors modflair modlog modothers modposts modself modwiki mysubreddits privatemessages read report save submit subscribe vote wikiedit wikiread'
+app_account_code = 'xxxxxxxxxxxxxxxxxxxxxxxxxxx'
+app_refresh = 'xxxxxxxx-xxxxxxxxxxxx-xxxxxxxxxxxxxx'
+owner_username = 'YourRedditUsernameHere'
